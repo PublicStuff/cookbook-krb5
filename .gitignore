@@ -3,8 +3,10 @@ metadata.json
 *.lock
 .kitchen/
 .kitchen.local.yml
+.idea/*
 *.swp
 checkstyle.xml
 .vagrant
 .bundle
 .chef
+workspace.xml
